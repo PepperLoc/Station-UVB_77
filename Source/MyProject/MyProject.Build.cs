@@ -14,6 +14,7 @@ public class MyProject : ModuleRules
 			"CoreUObject",
 			"Engine",
 			"InputCore",
+			"EnhancedInput",
 			"UMG",
 			"Slate",
 			"SlateCore"
